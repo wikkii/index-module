@@ -7,5 +7,7 @@ I made this module for a [server management course.](http://terokarvinen.com/201
 
 
 
-links
+links/sources
 ------
+http://terokarvinen.com/2016/aikataulu-palvelinten-hallinta-ict4tn022-1-5-op-uusi-ops-loppusyksy-2016#comment-21920
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
