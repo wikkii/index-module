@@ -8,9 +8,9 @@ The task was to create a module to git repository and write this report about it
 I did this task on xubuntu 16.04 lts version where i had already intalled puppet and I had already made this module and tested it to work
 
 I started this task byt installing git with 
-'''
+```
 $ sudo apt-get install git
-'''
+```
 
 
 
