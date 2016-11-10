@@ -1,6 +1,6 @@
 class publichtml {
 	package { 'curl':
- 	 ensure => '7.47.0-1ubuntu2',
+ 	 ensure => 'installed',
 	}
 	file {"/etc/skel/public_html":
 	ensure => 'directory'
